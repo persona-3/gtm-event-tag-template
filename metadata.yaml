@@ -1,5 +1,5 @@
 homepage: "https://www.persona3.io/"
 documentation: "https://persona-3.github.io/attribution-sdk-examples/third-party/gtm/"
 versions:
-  - sha: 0
+  - sha: c509f1bd37ecf013f05d43822ec39391dbc8d99b
     changeNotes: Initial release
