@@ -1,0 +1,5 @@
+homepage: "https://www.persona3.io/"
+documentation: "https://persona-3.github.io/attribution-sdk-examples/third-party/gtm/"
+versions:
+  - sha: 0
+    changeNotes: Initial release
